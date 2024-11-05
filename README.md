@@ -1,5 +1,5 @@
 Projeto de prática em lógica de programação.
-O site simula uma loja de aluguel de games, ultilizando as tecnologias para controlar a demonstração de diponobilidade dos games e disponibilidade de locação.
+O site simula uma loja de aluguel de games, ultilizando as tecnologias para controlar a demonstração de diponobilidade dos games e de locação.
 
 Ultilizando :
 ° CSS
